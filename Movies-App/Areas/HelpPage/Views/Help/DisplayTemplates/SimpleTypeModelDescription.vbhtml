@@ -1,0 +1,3 @@
+@Imports Movies_App.Areas.HelpPage.ModelDescriptions
+@ModelType SimpleTypeModelDescription
+@Model.Documentation
